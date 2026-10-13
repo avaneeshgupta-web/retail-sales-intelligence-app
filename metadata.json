@@ -1,0 +1,6 @@
+{
+  "name": "Retail Sales Intelligence Dashboard",
+  "description": "Interactive executive retail analytics dashboard with multi-source Excel upload, dynamic multi-filtering, KPI scorecards, interactive Chart.js visualizations, automated business insights, and CSV/report exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
